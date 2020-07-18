@@ -1,5 +1,5 @@
 # DataScraper
-Turn website's data into excel file.
+Turn website's data into excel file. 
 
 # Input Website
 ![](https://raw.githubusercontent.com/ChuaN15/DataScraper/master/.idea/input.PNG) 
